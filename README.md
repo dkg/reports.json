@@ -2,6 +2,11 @@
 
 Some regulations require a regulated entity to publish reports about their regular operations.
 
+This draft tracks the development of
+[a standard](https://datatracker.ietf.org/doc/draft-dkg-reports-json/)
+that makes it straightforward for regulated entities to publish
+necessary reports in a discoverable way.
+
 For example, NYC's [Local Law 144 of 2021](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page)
 requires publication of reports derived from
 audits of automated decision-making tools used during employment decisions.
